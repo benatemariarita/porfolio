@@ -8,8 +8,8 @@ export default function Home() {
     <>
     <div className="border-1 border-grey-500 max-w-screen-xl mx-auto py-14 flex gap-8">
     <span className="text-2xl font-medium text-indigo-300">maria rita benate</span>
-    <Link href="/projetos" passHref><a class="text-sm font-medium tracking-wide text-gray-600 ml-auto">Projetos</a></Link>
-    <Link href="/sobre-mim" passHref><a class="text-sm font-medium tracking-wide text-gray-600">Sobre mim</a></Link>
+    <Link href="/projetos" passHref><a className="text-sm font-medium tracking-wide text-gray-600 ml-auto">Projetos</a></Link>
+    <Link href="/sobre-mim" passHref><a className="text-sm font-medium tracking-wide text-gray-600">Sobre mim</a></Link>
     </div>
     </>
   )
