@@ -7,7 +7,7 @@ import '../styles/globals.css'
 function MyApp({ Component, pageProps }) {
   return <>
    <Head>
-        <title>Batatinha</title>
+        <title>Maria Rita Benate Portfolio</title>
         <meta name="description" content="Batatinha batatinha" />
         <link rel="icon" href="/favicon.ico" />
     </Head>
