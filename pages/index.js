@@ -39,7 +39,7 @@ export default function Home() {
             </Link>
             <Link href="/projetos" passHref>
               <a className="text-md font-light text-neutral-500
-               ">"Criar uma página de suporte, de forma que o atendimento seja fácil e rápido para uma marca relevante no mercado".</a>
+               "></a>
             </Link>
           </div>
 
@@ -56,7 +56,7 @@ export default function Home() {
               </Link>
               <Link href="/projetos" passHref>
                 <a className="text-md font-light text-neutral-500
-               ">"Criar uma página de suporte, de forma que o atendimento seja fácil e rápido para uma marca relevante no mercado".</a>
+               "></a>
               </Link>
             </div>
           </div>
