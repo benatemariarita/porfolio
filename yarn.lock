@@ -32,6 +32,11 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
+"@fontsource/karla@^4.5.8":
+  version "4.5.8"
+  resolved "https://registry.yarnpkg.com/@fontsource/karla/-/karla-4.5.8.tgz#776baf80120fc74a46e9d291e3b3de540c8eccb9"
+  integrity sha512-QbImqQ2cuXrkbqEA+UspuMUBJ3J5NOPalvyCxs8qPYmi/KRBBYu6an62gQlNv/WN54ogJ7CPDii7YVI4pBSgIg==
+
 "@fontsource/poppins@^4.5.8":
   version "4.5.8"
   resolved "https://registry.yarnpkg.com/@fontsource/poppins/-/poppins-4.5.8.tgz#65ce9b32f31bda5a25c23001bcebf1c66e440320"
