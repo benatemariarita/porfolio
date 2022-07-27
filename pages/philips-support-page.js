@@ -13,7 +13,7 @@ export default function Home() {
                 <div className="border-1 max-w-screen-md mx-auto py-14">
                     <div className="text-sm font-medium tracking-wide text-gray-800 text-center pb-4">ABRIL - MAIO 2022</div>
                     <div className="text-3xl font-medium tracking-wider text-gray-800 text-center pb-8"> Suporte Philips Brasil</div>
-                    <div className="text-md font-light leading-relaxed text-justify text-gray-800">"Criar uma página de suporte, de forma que o atendimento seja fácil e rápido para uma marca relevante no mercado" foi o desafio dado pelo UX bootcamp da Aela School. De forma independente, atuei neste estudo de caso aplicando conceitos e processos de UX identificando conceitos iniciais, definindo hipóteses, ideando e desenvolvendo uma solução.</div>
+                    <div className="text-md font-light leading-relaxed text-justify text-gray-800">Criar uma página de suporte, de forma que o atendimento seja fácil e rápido para uma marca relevante no mercado foi o desafio dado pelo UX bootcamp da Aela School. De forma independente, atuei neste estudo de caso aplicando conceitos e processos de UX identificando conceitos iniciais, definindo hipóteses, ideando e desenvolvendo uma solução.</div>
                 </div>
 
                 <div className="max-w-screen-lg mx-auto">
