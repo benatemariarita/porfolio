@@ -10,9 +10,9 @@ export default function Home() {
     <>
       <Fixed>
         <div className="border-1 border-grey-500 max-w-screen-lg mx-auto py-16">
-          <div className="text-2xl font-light py-4">UX &amp; Product Designer</div>
-          <div className="text-6xl font-medium py-4">Oie, eu me chamo <span className="text-orange-300">Maria</span></div>
-          <div className="text-lg font-light text-neutral-500 tracking-wide py-4">I&apos;m current reading the last chapter of Harry Potter and The Prisoner Of Azkaban</div>
+          <div className="text-xl font-light py-4">UX &amp; Product Designer</div>
+          <div className="text-5xl font-medium py-4">Oie, eu me chamo <span className="text-orange-300">Maria</span></div>
+          <div className="text-md font-light text-neutral-500 tracking-wide py-4">I&apos;m current reading the last chapter of Harry Potter and The Prisoner Of Azkaban</div>
           <div className="py-4 flex gap-2">
             <Link href="https://www.linkedin.com/in/mariaritabenate/" passHref>
               <a target="_blank"><Icon icon="mdi:linkedin" className="hover:text-orange-300 text-lg" /></a>
