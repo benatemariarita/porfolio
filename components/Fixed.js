@@ -10,7 +10,7 @@ export default function Fixed(props) {
           <Link href="/sobre-mim" passHref><a className="text-sm font-medium tracking-wide hover:text-orange-300 active:text-orange-300">Sobre mim</a></Link>
         </div>
         {props.children}
-        <div className="max-w-screen-xl mx-auto pt-52 pb-10">
+        <footer className="max-w-screen-xl mx-auto pt-52 pb-10">
           <div className="flex justify-center gap-2 py-6">
             <Link href="https://www.linkedin.com/in/mariaritabenate/" passHref>
               <a target="_blank"><Icon icon="mdi:linkedin" className="text-lg hover:text-orange-300" /></a>
@@ -22,7 +22,7 @@ export default function Fixed(props) {
           <div className="text-sm text-neutral-300 flex justify-center">
             <a>Desenvolvido por Maria Rita Benate.</a>
           </div>
-        </div>
+        </footer>
       </>
     )
   }
