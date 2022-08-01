@@ -32,13 +32,13 @@ export default function Home() {
                     <div className="text-sm font-regular leading-loose text-justify pb-4">No entando, através da pesquisa secundária, foi identicado pontos de melhoria na interface atual e novos recursos essenciais para entarem presentes em uma nova experiência.</div>
                     <div className="text-sm font-regular leading-loose text-justify">O redesenho do suporte serve para simplificar a jornada do cliente em busca do atendimento, reduzir o tempo de busca de informações, tornando a experiência mais intuitiva, amigável e ágil. </div>
                 </div>
-                <div className="border-1 max-w-screen-md mx-auto py-8">
+                <div className="max-w-screen-md mx-auto pt-4 pb-8">
                     <div className="text-3xl font-medium tracking-wide pt-6">Processo</div>
                 </div>
 
-                <div className="max-w-screen-sm mx-auto pb-24">
+                <div className="max-w-screen-md mx-auto pt-12 pb-24">
                     <div className="flex">
-                        <img src="/Frame 45.png" />
+                        <img src="/project-timeline.png" />
                     </div>
                 </div>
 
@@ -183,7 +183,7 @@ export default function Home() {
 
                 </div>
 
-                <div className="border-1 max-w-screen-lg mx-auto pt-28 pb-14">
+                <div className="border-1 max-w-screen-lg mx-auto pt-24 pb-14">
                     <div className="text-xs font-medium tracking-wide text-center pb-6">IDEANDO A EXPERIÊNCIA DO USUÁRIO | UX</div>
                     <div className="text-3xl font-medium tracking-wide text-center pb-8">Desenhando hipóteses</div>
                     <div className="text-sm font-regular leading-loose text-justify">
@@ -260,25 +260,26 @@ export default function Home() {
                     </div>
                     <div className="max-w-screen-lg mx-auto">
                         <div className="flex">
-                            <img src="/chat.png" />
+                            <img src="/chat (1).png" />
                         </div>
                     </div>
                 </div>
                 <div className="border-1 max-w-screen-md mx-auto pt-24">
-                    <div className="text-4xl font-medium tracking-wide text-center pt-6 pb-10">Aprendizados</div>
+                <div className="text-xs font-medium tracking-wide text-center pb-4">CONCLUSÃO</div>
+                    <div className="text-4xl font-medium tracking-wide text-center pb-10">Aprendizados</div>
                 </div>
                 <div className="border-1 max-w-screen-md mx-auto pb-4">
-                    <div className="text-2xl font-medium tracking-wide text-center pt-6 pb-10">Qual seria o próximo passo deste projeto</div>
+                    <div className="text-2xl font-medium tracking-wide text-center py-6">Próximos passos deste projeto</div>
                     <div className="text-sm font-regular leading-loose text-justify pb-4">Gostaria de realizar testes de interface e funcionalidades com usuários reais da marca e  realizar as melhorias identificadas.</div>
                     <div className="text-sm font-regular leading-loose text-justify">Com descrições reais, é possível identificar as decisões que os usuários tomam ao buscar atendimento dentro do site e as dificuldades que eles encontram ao tentar alcançar seu objetivo. Pontos que me chamaram a atenção nas experiências: </div>
                 </div>
                 <div className="border-1 max-w-screen-md mx-auto pt-14 pb-4">
-                    <div className="text-2xl font-medium tracking-wide text-center pt-6 pb-10">Do que me orgulho</div>
+                    <div className="text-2xl font-medium tracking-wide text-center py-6">Do que me orgulho</div>
                     <div className="text-sm font-regular leading-loose text-justify pb-4">Analisei a experiência que alguns clientes tiveram com o atendimento Philips através de seus próprios relatos na plataforma de solução de conflito entre consumidores e empresas, ReclameAQUI.  </div>
                     <div className="text-sm font-regular leading-loose text-justify">Com descrições reais, é possível identificar as decisões que os usuários tomam ao buscar atendimento dentro do site e as dificuldades que eles encontram ao tentar alcançar seu objetivo. Pontos que me chamaram a atenção nas experiências: </div>
                 </div>
                 <div className="border-1 max-w-screen-md mx-auto pt-14 pb-4">
-                    <div className="text-2xl font-medium tracking-wide text-center pt-6 pb-10">O que eu melhoraria</div>
+                    <div className="text-2xl font-medium tracking-wide text-center py-6">O que eu melhoraria</div>
                     <div className="text-sm font-regular leading-loose text-justify pb-4">Analisei a experiência que alguns clientes tiveram com o atendimento Philips através de seus próprios relatos na plataforma de solução de conflito entre consumidores e empresas, ReclameAQUI.  </div>
                     <div className="text-sm font-regular leading-loose text-justify">Com descrições reais, é possível identificar as decisões que os usuários tomam ao buscar atendimento dentro do site e as dificuldades que eles encontram ao tentar alcançar seu objetivo. Pontos que me chamaram a atenção nas experiências: </div>
                 </div>
