@@ -19,7 +19,7 @@ export default function Home() {
                 <div className="bg-neutral-50 pt-20">
                     <div className="max-w-screen-lg mx-auto">
                         <div className="flex">
-                            <img src="/Support Page - Tópicos teste 1.png" />
+                            <img src="/Support-Page-1.png" />
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ export default function Home() {
 
                 <div className="max-w-screen-md mx-auto pt-12 pb-24">
                     <div className="flex">
-                        <img src="/project-timeline.png" />
+                        <img src="/project-timeline (1).png" />
                     </div>
                 </div>
 
