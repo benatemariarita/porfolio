@@ -23,7 +23,7 @@ export default function Home() {
           </div> */}
         </div>
 
-        <Link href="http://localhost:3000/philips-support-page" passHref>
+        <Link href="https://mariaritabenate.com.br/philips-support-page" passHref>
               <a target="_blank">
             
         <div className="max-w-screen-xl mx-auto pt-8">
