@@ -272,12 +272,10 @@ export default function Home() {
                     </div>
                     <div className="max-w-screen-lg mx-auto">
                         <div className="flex">
-                        <video controls="controls">
-<source src="Untitled.mp4" type="video/mp4"></source>
-
-<embed width="320" height="240" src="Untitled.mp4"></embed>
-
-</video>
+                            <video controls="controls">
+                                <source src="Untitled.mp4" type="video/mp4"></source>
+                                <embed src="Untitled.mp4"></embed>
+                            </video>
                         </div>
                     </div>
                 </div>
