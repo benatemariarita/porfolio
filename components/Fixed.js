@@ -5,7 +5,12 @@ export default function Fixed(props) {
     return (
       <>
         <div className="border-1 border-grey-500 max-w-screen-xl mx-auto py-12 flex gap-8">
+          <Link href="/" passHref>
+          <a>
           <span className="text-xl font-bold tracking-wide text-gray-900">maria rita benate</span>
+          </a>
+          </Link>
+
           <Link href="/" passHref><a className="text-sm font-medium hover:text-orange-300 tracking-wide ml-auto ">Home</a></Link>
           <Link href="" passHref><a className="text-sm font-medium tracking-wide hover:text-orange-300 active:text-orange-300">Sobre mim</a></Link>
           
