@@ -24,7 +24,6 @@ function MyApp({ Component, pageProps }) {
       <meta property='og:title' content='Suporte Philips Brasil' />
       <meta property='og:image' content='teste-thumb.png' />
       <meta property='og:description' content='Como eu fiz o redesenho da página de suporte da Philips Brasil apenas aplicando pesquisa secundária.' />
-      <meta property='og:url' content='https://mariaritabenate.com.br/philips-support-page' />
       <meta name="description" content="" />
       <link rel="icon" href="/favicon.ico" />
     </Head>
