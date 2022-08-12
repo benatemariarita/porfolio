@@ -11,7 +11,8 @@ export default function Home() {
       <Fixed>
         <div className="border-1 border-grey-500 max-w-screen-lg mx-auto py-16">
           <div className="text-2xl font-light py-6">UX &amp; Product Designer</div>
-          <div className="text-5xl font-medium py-6">Oie, eu me chamo <span className="text-orange-300">Maria</span></div>
+          <div className="text-5xl font-medium py-6">Oie, eu me chamo <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-pink-300">Maria</span></div>
+ 
           <div className="text-md font-light text-neutral-500 tracking-wide py-4">Sou graduada em Sistemas de Informação e atualmente me aventuro na área de Design de Produtos Digitais.</div>
           {/* <div className="py-4 flex gap-2">
             <Link href="https://www.linkedin.com/in/mariaritabenate/" passHref>
