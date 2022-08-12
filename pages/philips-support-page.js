@@ -134,22 +134,22 @@ export default function Home() {
                             Depois de conhecer o que os consumidores esperam de um bom atendimento e os efeitos isso pode ter em um negócio, entender dificuldades que os clientes encontram ao buscar o suporte Philips e identificar pontos de fricção na jornada que o usuário realiza procurando atendimento através da experiência atual, condensei os aprendizados e assim, determinei o que a nova experiência deve possuir para ser efetiva.
                         </div>
                     </div>
-                    <div className="max-w-screen-lg mx-auto flex pb-6">
-                        <div className="w-1/3 flex flex-col items-center pr-6">
+                    <div className="max-w-screen-lg mx-auto flex grid sm:grid-cols-3 gap-4 pb-6">
+                        <div className="flex flex-col items-center pr-6">
                             <Icon className="text-6xl py-1 text-neutral-600" icon="bi:chat-square-quote" />
                             <div className="text-xl font-semibold tracking-wider py-4">Comunicação</div>
                             <div className="text-sm leading-loose text-center">
                                 A solução, em forma de texto e elementos da interface precisam comunicar claramente para o usuário o que ele vai encontrar em cada funcionalidade.
                             </div>
                         </div>
-                        <div className="w-1/3 flex flex-col items-center pl-6 pr-6">
+                        <div className="flex flex-col items-center">
                             <Icon className="text-6xl text-neutral-600" icon="majesticons:lightbulb-shine-line" />
                             <div className="text-xl font-semibold tracking-wider py-4">Autonomia do Usuário</div>
                             <div className="text-sm leading-loose text-center">
                                 Os usuários devem ser capazes de encontrar respostas antes de entrarem em contato com atendimento direto.
                             </div>
                         </div>
-                        <div className="w-1/3 flex flex-col items-center pl-6">
+                        <div className="flex flex-col items-center">
                             <Icon className="text-6xl py-2 text-neutral-600" icon="fa6-solid:arrows-to-circle" />
                             <div className="text-xl font-semibold tracking-wider py-4">Destaque no Atendimento</div>
                             <div className="text-sm leading-loose text-center">
@@ -158,22 +158,22 @@ export default function Home() {
                         </div>
                     </div>
 
-                    <div className="max-w-screen-lg mx-auto flex pt-8">
-                        <div className="w-1/3 flex flex-col items-center pr-6">
+                    <div className="max-w-screen-lg mx-auto flex grid sm:grid-cols-3 gap-4 pt-8">
+                        <div className="flex flex-col items-center">
                             <Icon className="text-6xl py-1 text-neutral-600" icon="ic:round-settings-accessibility" />
                             <div className="text-xl font-semibold tracking-wider py-4">Acessibilidade</div>
                             <div className="text-sm leading-loose text-center">
                                 Disponibilizar opções para tornar o acesso ao suporte acessível para o máximo número de usuários.
                             </div>
                         </div>
-                        <div className="w-1/3 flex flex-col items-center pl-6 pr-6">
+                        <div className="flex flex-col items-center ">
                             <Icon className="text-6xl py-2 text-neutral-600" icon="fa6-solid:arrows-turn-to-dots" />
                             <div className="text-xl font-semibold tracking-wider py-4">Intuitividade</div>
                             <div className="text-sm leading-loose text-center">
                                 A jornada de resolução de problemas deve ser intuitiva, conduzindo o cliente para possíveis soluções.
                             </div>
                         </div>
-                        <div className="w-1/3 flex flex-col items-center pl-6">
+                        <div className="flex flex-col items-center">
                             <Icon className="text-6xl py-1 text-neutral-600" icon="fluent:arrow-repeat-all-off-24-filled" />
                             <div className="text-xl font-semibold tracking-wider py-4">Redundância</div>
                             <div className="text-sm leading-loose text-center">
