@@ -199,7 +199,7 @@ export default function Home() {
 
                 <div className="border-1 max-w-screen-lg mx-auto pt-14 pb-8">
                     <div className="text-sm font-regular leading-loose text-justify pb-4">
-                        Funções definidas, defini a estrutura da página contendo três sessões principais. A sequência direciona intuitivamente o usuário criando a sensação de passo-a-passo; caso não encontre a resposta em uma área ele poderá utilizar a próxima sessão.                    </div>
+                        Funções definidas, estabeleci a estrutura da página contendo três sessões principais. A sequência direciona intuitivamente o usuário criando a sensação de passo-a-passo; caso não encontre a resposta em uma área ele poderá utilizar a próxima sessão.                    </div>
                 </div>
                 <div className="max-w-screen-sm mx-auto">
                     <div className="flex">
